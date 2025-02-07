@@ -4,5 +4,4 @@ requests==2.32.3
 pandas==2.2.3
 transformers==4.48.2
 langchain_ollama==0.2.3
-logging==0.5.1.2
 re==2.2.1
